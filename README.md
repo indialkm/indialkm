@@ -34,7 +34,7 @@ Olá, eu sou @indialkm
   
   <h2>Contatos</h2>
   
-  <a  href="www.linkedin.com/in/ingrid-alkimim"><img height=30 align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a  href="../www.linkedin.com/in/ingrid-alkimim"><img height=30 align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a  href="https://api.whatsapp.com/send?phone=5511993871401"><img height=30 align="center" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
   <a  href=""><img height=30 align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
