@@ -2,7 +2,7 @@ Olá, eu sou @indialkm
 
 🚀 Desenvolvedora FullStack apaixonado pela arte do código. Transformando linhas em soluções criativas; <br>
 🌟 PHP, JS, CSS/HTML, C, MySQL, SQL;<br>
-💻 Atualmente, aprendendo React;<br>
+💻 Atualmente, aprendendo Java;<br>
 🎯 Nos tempos livres pintora de quadros, escritora de poemas e cuidadora de doguinhos;<br>
 
 <div>
